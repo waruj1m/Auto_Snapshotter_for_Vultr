@@ -6,10 +6,10 @@ import requests
 # ------------- User setting START -------------- #
 
 # your vultr api_key
-API_KEY = "N7BDQAJE5H5NGOYZPU4HEI3VZLYEVOOELEPA"
+API_KEY = "GET FROM VULTR ACCOUNT PAGE"
 
 # The server's ip or subid which 
-MAIN_IP = "45.76.246.164"
+MAIN_IP = "0.0.0.0"
 SUBID = None
 
 BACKUP_TAG_PREFIX = "auto_backup"
